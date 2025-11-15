@@ -1,0 +1,12 @@
+#%PAM-1.0
+
+
+
+auth        required      pam_env.so
+auth        sufficient    pam_unix.so nullok try_first_pass
+
+
+
+password    requisite     pam_pwquality.so try_first_pass local_users_only retry=3
+password    sufficient    pam_unix.so sha512 shadow nullok try_first_pass use_authtok remember=3
+password    required      pam_deny.so

@@ -46,13 +46,13 @@ sudo python3 auditor.py
 ### **3️⃣ Generate an HTML Report**
 
 ```bash
-sudo python3 auditor.py --html report.html
+sudo python3 auditor.py --pam-file <path> --html report.html
 ```
 
 ### **4️⃣ Generate a JSON Report**
 
 ```bash
-sudo python3 auditor.py --json audit.json
+sudo python3 auditor.py --login-defs <path> --json audit.json
 ```
 
 ---

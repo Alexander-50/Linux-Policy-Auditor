@@ -154,6 +154,20 @@ Linux-Policy-Auditor/
 
 ---
 
+---
+## Screenshots
+
+---
+<img width="1529" height="666" alt="LPA_Screenshot" src="https://github.com/user-attachments/assets/19c6d93f-0e9d-4aeb-aa64-5113860b00bb" />
+
+
+---
+
+<img width="1810" height="946" alt="webpageresult" src="https://github.com/user-attachments/assets/2c763590-c5e3-4583-abef-6533b71c858b" />
+
+
+
+
 ## 👨‍💻 Author
 
 **Alexander P.B.**
